@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseEmma", "HouseEmma.csproj", "{3BDFF4AC-49E8-4A62-AFB0-D05B0EE09781}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseEmma", "HouseEmma.csproj", "{3BDFF4AC-49E8-4A62-AFB0-D05B0EE09781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseEmma.ApplicationServices", "..\HouseEmma.ApplicationServices\HouseEmma.ApplicationServices.csproj", "{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseEmma.ApplicationServices", "..\HouseEmma.ApplicationServices\HouseEmma.ApplicationServices.csproj", "{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseEmma.Core", "..\HouseEmma.Core\HouseEmma.Core.csproj", "{09636388-5C15-4115-9732-35DAE369BA00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseEmma.Data", "..\HouseEmma.Data\HouseEmma.Data.csproj", "{56611CB2-D0B1-45C0-8052-9ACA5C8DAFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseEmma.HouseTest", "..\HouseEmma.HouseTest\HouseEmma.HouseTest.csproj", "{3D1D26D1-7444-4A7A-93EB-E6243C61B819}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09636388-5C15-4115-9732-35DAE369BA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09636388-5C15-4115-9732-35DAE369BA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09636388-5C15-4115-9732-35DAE369BA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09636388-5C15-4115-9732-35DAE369BA00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56611CB2-D0B1-45C0-8052-9ACA5C8DAFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56611CB2-D0B1-45C0-8052-9ACA5C8DAFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56611CB2-D0B1-45C0-8052-9ACA5C8DAFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56611CB2-D0B1-45C0-8052-9ACA5C8DAFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1D26D1-7444-4A7A-93EB-E6243C61B819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1D26D1-7444-4A7A-93EB-E6243C61B819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1D26D1-7444-4A7A-93EB-E6243C61B819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1D26D1-7444-4A7A-93EB-E6243C61B819}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
