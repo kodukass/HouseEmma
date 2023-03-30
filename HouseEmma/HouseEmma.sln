@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseEmma", "HouseEmma.csproj", "{3BDFF4AC-49E8-4A62-AFB0-D05B0EE09781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseEmma.ApplicationServices", "..\HouseEmma.ApplicationServices\HouseEmma.ApplicationServices.csproj", "{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDFF4AC-49E8-4A62-AFB0-D05B0EE09781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDFF4AC-49E8-4A62-AFB0-D05B0EE09781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDFF4AC-49E8-4A62-AFB0-D05B0EE09781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDFF4AC-49E8-4A62-AFB0-D05B0EE09781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EC38FF-AC1A-4EF5-B115-F40342AB9DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EF7C782-241F-45C4-9E26-CEC382E07F8E}
+	EndGlobalSection
+EndGlobal
