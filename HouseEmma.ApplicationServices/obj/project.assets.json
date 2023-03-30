@@ -779,6 +779,34 @@
             "rid": "win"
           }
         }
+      },
+      "HouseEmma.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3"
+        },
+        "compile": {
+          "bin/placeholder/HouseEmma.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseEmma.Core.dll": {}
+        }
+      },
+      "HouseEmma.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseEmma.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3"
+        },
+        "compile": {
+          "bin/placeholder/HouseEmma.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseEmma.Data.dll": {}
+        }
       }
     }
   },
@@ -1998,10 +2026,22 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "HouseEmma.Core/1.0.0": {
+      "type": "project",
+      "path": "../HouseEmma.Core/HouseEmma.Core.csproj",
+      "msbuildProject": "../HouseEmma.Core/HouseEmma.Core.csproj"
+    },
+    "HouseEmma.Data/1.0.0": {
+      "type": "project",
+      "path": "../HouseEmma.Data/HouseEmma.Data.csproj",
+      "msbuildProject": "../HouseEmma.Data/HouseEmma.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "HouseEmma.Core >= 1.0.0",
+      "HouseEmma.Data >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.3"
     ]
@@ -2038,7 +2078,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
+              "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj"
+            },
+            "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj": {
+              "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

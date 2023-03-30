@@ -1,3 +1,4 @@
+using HouseEmma.Core.ServiceInterface;
 using HouseEmma.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,6 +9,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<HouseEmmaContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IHouseServices, HouseServices>();
 
 var app = builder.Build();
 
