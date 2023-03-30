@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using HouseEmma.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace HouseEmma.Controllers
 {
