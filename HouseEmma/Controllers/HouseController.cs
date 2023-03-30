@@ -1,4 +1,7 @@
-﻿using HouseEmma.Models;
+﻿using HouseEmma.Core.Dto;
+using HouseEmma.Core.ServiceInterface;
+using HouseEmma.Data;
+using HouseEmma.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HouseEmma.Controllers
@@ -6,13 +9,16 @@ namespace HouseEmma.Controllers
     public class HouseController : Controller
     {
         private readonly IHouseServices _houseServices;
+        private readonly HouseContext _context;
 
         public HouseController
             (
-                IHouseServices houseServices
+                IHouseServices houseServices,
+                HouseContext context
             )
         {
             _houseServices = houseServices;
+            _context = context;
         }
 
         [HttpGet]
