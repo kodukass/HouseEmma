@@ -1,4 +1,5 @@
-﻿using HouseEmma.Core.Dto;
+﻿using HouseEmma.Core.Domain;
+using HouseEmma.Core.Dto;
 using System;
 using System.Collections.Generic;
 using System.Linq;

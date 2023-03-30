@@ -1,0 +1,14 @@
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\bin\Debug\net6.0\HouseEmma.ApplicationServices.deps.json
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\bin\Debug\net6.0\HouseEmma.ApplicationServices.runtimeconfig.json
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\bin\Debug\net6.0\HouseEmma.ApplicationServices.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\bin\Debug\net6.0\HouseEmma.ApplicationServices.pdb
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.AssemblyInfo.cs
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\refint\HouseEmma.ApplicationServices.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.pdb
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.genruntimeconfig.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\ref\HouseEmma.ApplicationServices.dll

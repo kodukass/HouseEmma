@@ -1,0 +1,14 @@
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\bin\Debug\net6.0\HouseEmma.Core.deps.json
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\bin\Debug\net6.0\HouseEmma.Core.runtimeconfig.json
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\bin\Debug\net6.0\HouseEmma.Core.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\bin\Debug\net6.0\HouseEmma.Core.pdb
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\HouseEmma.Core.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\HouseEmma.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\HouseEmma.Core.AssemblyInfoInputs.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\HouseEmma.Core.AssemblyInfo.cs
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\HouseEmma.Core.csproj.CoreCompileInputs.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\HouseEmma.Core.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\refint\HouseEmma.Core.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\HouseEmma.Core.pdb
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\HouseEmma.Core.genruntimeconfig.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.Core\obj\Debug\net6.0\ref\HouseEmma.Core.dll

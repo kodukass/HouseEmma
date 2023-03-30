@@ -9,12 +9,12 @@ namespace HouseEmma.Controllers
     public class HouseController : Controller
     {
         private readonly IHouseServices _houseServices;
-        private readonly HouseContext _context;
+        private readonly HouseEmmaContext _context;
 
         public HouseController
             (
                 IHouseServices houseServices,
-                HouseContext context
+                HouseEmmaContext context
             )
         {
             _houseServices = houseServices;
@@ -24,7 +24,7 @@ namespace HouseEmma.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            var result = _context.RealEstates
+            var result = _context.Houses
                 .OrderByDescending(y => y.CreatedAt)
                 .Select(x => new HouseIndexViewModel
                 {
