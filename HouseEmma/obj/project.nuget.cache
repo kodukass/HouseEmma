@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tn1WacAY2cAlUFsnMuk7qrxQFIGa6psb1zG5nZetdyYPZqAEBsHgeJaFfxNhxN6FcLkG2nh9Aqq962eh205ymg==",
+  "dgSpecHash": "0ra0oOoZ3qoNw5cx/aMpvhObzllEXgVF0F8SyNgkl6Yd/PUq7TVb9KBJZ5fMsKX1bS0svlZ0XKgCAlVBddZmIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma\\HouseEmma.csproj",
+  "projectFilePath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma\\HouseEmma.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\koduk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\koduk\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

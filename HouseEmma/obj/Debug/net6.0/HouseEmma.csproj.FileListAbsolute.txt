@@ -68,3 +68,11 @@ C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma\bin\Debug\net6.0\r
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma\obj\Debug\net6.0\HouseEmma.csproj.AssemblyReference.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma\obj\Debug\net6.0\HouseEmma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma\obj\Debug\net6.0\HouseEmma.AssemblyInfoInputs.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma\obj\Debug\net6.0\HouseEmma.AssemblyInfo.cs
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma\obj\Debug\net6.0\HouseEmma.csproj.CoreCompileInputs.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma\obj\Debug\net6.0\HouseEmma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma\obj\Debug\net6.0\HouseEmma.RazorAssemblyInfo.cache
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma\obj\Debug\net6.0\HouseEmma.RazorAssemblyInfo.cs

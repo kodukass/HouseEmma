@@ -1,3 +1,4 @@
+using HouseEmma.ApplicationServices.Services;
 using HouseEmma.Core.ServiceInterface;
 using HouseEmma.Data;
 using Microsoft.EntityFrameworkCore;

@@ -1,17 +1,96 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma\\HouseEmma.csproj": {}
+    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma\\HouseEmma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
+    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.ApplicationServices\\HouseEmma.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj",
-        "projectName": "HouseEmma.Core",
-        "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj",
+        "projectUniqueName": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.ApplicationServices\\HouseEmma.ApplicationServices.csproj",
+        "projectName": "HouseEmma.ApplicationServices",
+        "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.ApplicationServices\\HouseEmma.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\koduk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\obj\\",
+        "outputPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\koduk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
+                "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj"
+              },
+              "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj": {
+                "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj",
+        "projectName": "HouseEmma.Core",
+        "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj",
+        "packagesPath": "C:\\Users\\koduk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj": {
+    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj",
+        "projectUniqueName": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj",
         "projectName": "HouseEmma.Data",
-        "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj",
+        "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj",
         "packagesPath": "C:\\Users\\koduk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Data\\obj\\",
+        "outputPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +184,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
-                "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj"
+              "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
+                "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj"
               }
             }
           }
@@ -156,14 +235,14 @@
         }
       }
     },
-    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma\\HouseEmma.csproj": {
+    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma\\HouseEmma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma\\HouseEmma.csproj",
+        "projectUniqueName": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma\\HouseEmma.csproj",
         "projectName": "HouseEmma",
-        "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma\\HouseEmma.csproj",
+        "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma\\HouseEmma.csproj",
         "packagesPath": "C:\\Users\\koduk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma\\obj\\",
+        "outputPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -185,11 +264,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
-                "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj"
+              "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.ApplicationServices\\HouseEmma.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.ApplicationServices\\HouseEmma.ApplicationServices.csproj"
               },
-              "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj": {
-                "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj"
+              "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
+                "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj"
+              },
+              "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj": {
+                "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Data\\HouseEmma.Data.csproj"
               }
             }
           }

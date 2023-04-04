@@ -9,41 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HouseEmma
 build_property.RootNamespace = HouseEmma
-build_property.ProjectDir = C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma\
+build_property.ProjectDir = C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma
+build_property.MSBuildProjectDirectory = C:\Users\koduk\OneDrive\Dokumendid\GitHub\houseEmma1\HouseEmma\HouseEmma
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/Delete.cshtml]
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/houseEmma1/HouseEmma/HouseEmma/Views/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/Home/Index.cshtml]
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/houseEmma1/HouseEmma/HouseEmma/Views/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/houseEmma1/HouseEmma/HouseEmma/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/Home/Privacy.cshtml]
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/houseEmma1/HouseEmma/HouseEmma/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/Shared/Error.cshtml]
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/houseEmma1/HouseEmma/HouseEmma/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/houseEmma1/HouseEmma/HouseEmma/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/_ViewImports.cshtml]
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/houseEmma1/HouseEmma/HouseEmma/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/_ViewStart.cshtml]
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/houseEmma1/HouseEmma/HouseEmma/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/koduk/OneDrive/Dokumendid/GitHub/HouseEmma/HouseEmma/Views/Shared/_Layout.cshtml]
+[C:/Users/koduk/OneDrive/Dokumendid/GitHub/houseEmma1/HouseEmma/HouseEmma/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-z55e3qzsql

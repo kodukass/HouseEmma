@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {}
+    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
+    "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj",
+        "projectUniqueName": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj",
         "projectName": "HouseEmma.Core",
-        "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj",
+        "projectPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\HouseEmma.Core.csproj",
         "packagesPath": "C:\\Users\\koduk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\HouseEmma\\HouseEmma.Core\\obj\\",
+        "outputPath": "C:\\Users\\koduk\\OneDrive\\Dokumendid\\GitHub\\houseEmma1\\HouseEmma\\HouseEmma.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

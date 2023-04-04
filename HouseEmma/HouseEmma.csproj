@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\HouseEmma.ApplicationServices\HouseEmma.ApplicationServices.csproj" />
     <ProjectReference Include="..\HouseEmma.Core\HouseEmma.Core.csproj" />
     <ProjectReference Include="..\HouseEmma.Data\HouseEmma.Data.csproj" />
   </ItemGroup>
