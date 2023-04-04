@@ -12,3 +12,8 @@ C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationService
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.pdb
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.genruntimeconfig.cache
 C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\ref\HouseEmma.ApplicationServices.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\bin\Debug\net6.0\HouseEmma.Core.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\bin\Debug\net6.0\HouseEmma.Data.dll
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\bin\Debug\net6.0\HouseEmma.Core.pdb
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\bin\Debug\net6.0\HouseEmma.Data.pdb
+C:\Users\koduk\OneDrive\Dokumendid\GitHub\HouseEmma\HouseEmma.ApplicationServices\obj\Debug\net6.0\HouseEmma.ApplicationServices.csproj.CopyComplete
