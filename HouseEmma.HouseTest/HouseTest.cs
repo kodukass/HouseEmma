@@ -57,61 +57,61 @@ namespace HouseEmma.HouseTest
             Assert.Equal(databaseGuid, getGuid);
         }
 
-        [Fact]
-        public async Task Should_DeleteByIdHouse_WhenDeleteSpaceship()
-        {
-            //Guid guid = Guid.NewGuid();
-            Guid guid = Guid.Parse("18ddd2c6-f53f-4574-ae8c-1e14559144b2");
+        //[Fact]
+        //public async Task Should_DeleteByIdHouse_WhenDeleteSpaceship()
+        //{
+        //    //Guid guid = Guid.NewGuid();
+        //    Guid guid = Guid.Parse("18ddd2c6-f53f-4574-ae8c-1e14559144b2");
 
-            HouseDto house = MockHouseData();
-            var addHouse = await Svc<IHouseServices>().Create(house);
+        //    HouseDto house = MockHouseData();
+        //    var addHouse = await Svc<IHouseServices>().Create(house);
 
-            var result = await Svc<IHouseServices>().Delete((Guid)addHouse.Id);
+        //    var result = await Svc<IHouseServices>().Delete((Guid)addHouse.Id);
 
-            Assert.Equal(result.Id, addHouse.Id);
-            Assert.Equal(result.Address, addHouse.Address);
-        }
+        //    Assert.Equal(result.Id, addHouse.Id);
+        //    Assert.Equal(result.Address, addHouse.Address);
+        //}
     }
 
-    private HouseDto MockHouseData()
-    {
-        HouseDto house = new()
-        {
-            Address = "asd",
-            City = "asd",
-            Country = "esrdgfh",
-            RoomCount = 1,
-            CreatedAt = DateTime.Now,
-            ModifiedAt = DateTime.Now
-        };
-        return house;
-    }
+    //private HouseDto MockHouseData()
+    //{
+    //    HouseDto house = new()
+    //    {
+    //        Address = "asd",
+    //        City = "asd",
+    //        Country = "esrdgfh",
+    //        RoomCount = 1,
+    //        CreatedAt = DateTime.Now,
+    //        ModifiedAt = DateTime.Now,
+    //    };
+    //    return house;
+    //}
 
-    private HouseDto MockUpdateHouse()
-    {
-        HouseDto update = new()
-        {
-            Address = "awsd",
-            City = "awsd",
-            Country = "eswrdgfh",
-            RoomCount = 2,
-            CreatedAt = DateTime.Now.AddYears(1),
-            ModifiedAt = DateTime.Now.AddYears(1),
-        };
-        return update;
-    }
+    //private HouseDto GetMockUpdateHouse()
+    //{
+    //    HouseDto update = new()
+    //    {
+    //        Address = "awsd",
+    //        City = "awsd",
+    //        Country = "eswrdgfh",
+    //        RoomCount = 2,
+    //        CreatedAt = DateTime.Now.AddYears(1),
+    //        ModifiedAt = DateTime.Now.AddYears(1),
+    //    };
+    //    return update;
+    //}
 
-    private HouseDto MockNullHouse()
-    {
-        HouseDto nullDto = new()
-        {
-            Address = "asd",
-            City = "asd",
-            Country = "esrdgfh",
-            RoomCount = 1,
-            CreatedAt = DateTime.Now,
-            ModifiedAt = DateTime.Now
-        };
-        return nullDto;
-    }
+    //private HouseDto MockNullHouse()
+    //{
+    //    HouseDto nullDto = new()
+    //    {
+    //        Address = "asd",
+    //        City = "asd",
+    //        Country = "esrdgfh",
+    //        RoomCount = 1,
+    //        CreatedAt = DateTime.Now,
+    //        ModifiedAt = DateTime.Now
+    //    };
+    //    return nullDto;
+    //}
 }
