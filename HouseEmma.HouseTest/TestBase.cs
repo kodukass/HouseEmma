@@ -1,8 +1,6 @@
 using Microsoft.Extensions.DependencyInjection;
-
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
-using Microsoft.Extensions.DependencyInjection;
 using HouseEmma.HouseTest.Macros;
 using HouseEmma.Core.ServiceInterface;
 using HouseEmma.ApplicationServices.Services;
@@ -37,7 +35,6 @@ namespace HouseEmma.HouseTest
 
         public virtual void SetupServices(IServiceCollection services)
         {
-            //var 
             services.AddScoped<IHouseServices, HouseServices>();
 
             services.AddDbContext<HouseEmmaContext>(x =>

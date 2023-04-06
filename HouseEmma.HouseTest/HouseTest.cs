@@ -48,28 +48,22 @@ namespace HouseEmma.HouseTest
         [Fact]
         public async Task ShouldNot_GetByIdHouse_WhenReturnsNotEqual()
         {
-            //arrange
             Guid wrongGuid = Guid.Parse(Guid.NewGuid().ToString());
             Guid guid = Guid.Parse("18ddd2c6-f53f-4574-ae8c-1e14559144b2");
 
-            //act
             await Svc<IHouseServices>().GetAsync(guid);
 
-            //assert
             Assert.NotEqual(wrongGuid, guid);
         }
 
         [Fact]
         public async Task Should_GetByIdHouse_WhenReturnsEqual()
         {
-            //arrange
             Guid getGuid = Guid.Parse("18ddd2c6-f53f-4574-ae8c-1e14559144b2");
             Guid databaseGuid = Guid.Parse("18ddd2c6-f53f-4574-ae8c-1e14559144b2");
 
-            //act
             await Svc<IHouseServices>().GetAsync(getGuid);
 
-            //assert
             Assert.Equal(databaseGuid, getGuid);
         }
     }
