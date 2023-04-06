@@ -9390,8 +9390,6 @@
     "net6.0": [
       "HouseEmma.ApplicationServices >= 1.0.0",
       "HouseEmma.Core >= 1.0.0",
-      "Microsoft.AspNetCore.Hosting >= 2.2.7",
-      "Microsoft.AspNetCore.Hosting.Abstractions >= 2.2.0",
       "Microsoft.AspNetCore.Http >= 2.2.2",
       "Microsoft.AspNetCore.Http.Features >= 2.2.0",
       "Microsoft.EntityFrameworkCore >= 6.0.11",
@@ -9457,14 +9455,6 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Hosting": {
-            "target": "Package",
-            "version": "[2.2.7, )"
-          },
-          "Microsoft.AspNetCore.Hosting.Abstractions": {
-            "target": "Package",
-            "version": "[2.2.0, )"
-          },
           "Microsoft.AspNetCore.Http": {
             "target": "Package",
             "version": "[2.2.2, )"

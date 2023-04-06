@@ -1,5 +1,5 @@
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.AspNetCore.Hosting;
+
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.Extensions.DependencyInjection;
@@ -39,7 +39,6 @@ namespace HouseEmma.HouseTest
         {
             //var 
             services.AddScoped<IHouseServices, HouseServices>();
-            services.AddScoped<IHostingEnvironment>();
 
             services.AddDbContext<HouseEmmaContext>(x =>
             {

@@ -10,8 +10,6 @@
         "dependencies": {
           "HouseEmma.ApplicationServices": "1.0.0",
           "HouseEmma.Core": "1.0.0",
-          "Microsoft.AspNetCore.Hosting": "2.2.7",
-          "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Http": "2.2.2",
           "Microsoft.AspNetCore.Http.Features": "2.2.0",
           "Microsoft.EntityFrameworkCore": "6.0.11",
